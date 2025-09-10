@@ -1,0 +1,11 @@
+#key	value
+name	JoyfulEarth (Joyism)
+byline	Fulfilling life's purpose for all
+safeName	joyfulearth
+iconName	JE Home
+footer-message	[todo: footer]
+siteMenuName	JE Home
+sections	
+local-url	http://localhost/joyfulearth/main/
+live-url	https://joyfulearth.org/
+year	2019

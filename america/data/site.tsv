@@ -1,0 +1,11 @@
+#key	value
+name	America @ JoyfulEarth
+byline	[todo: byline]
+safeName	joyfulearth-america
+iconName	JE America
+footer-message	[todo: footer]
+siteMenuName	JE America
+sections	
+local-url	http://localhost/joyfulearth/america/
+live-url	https://america.joyfulearth.org/
+year	2025
