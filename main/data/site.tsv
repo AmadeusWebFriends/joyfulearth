@@ -5,7 +5,7 @@ safeName	joyfulearth
 iconName	JE Home
 footer-message	[todo: footer]
 siteMenuName	JE Home
-sections	
+sections	movements
 local-url	http://localhost/joyfulearth/main/
 live-url	https://joyfulearth.org/
 year	2019
