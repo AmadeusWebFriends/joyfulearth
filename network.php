@@ -1,6 +1,9 @@
 <?php
 //DEFINE('SITENETWORK', 'joyism');
 
+DEFINE('NETWORKPATH', __DIR__);
+DEFINE('NETWORKMAIN', 'joyfulearth');
+
 function network_before_render() {
 	runFeature('engage'); //needed for floating button
 	variables([
