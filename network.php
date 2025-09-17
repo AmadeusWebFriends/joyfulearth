@@ -2,6 +2,7 @@
 //DEFINE('SITENETWORK', 'joyism');
 
 DEFINE('NETWORKPATH', __DIR__);
+DEFINE('NETWORKDATA', __DIR__ . '/main/data/for-network/');
 DEFINE('NETWORKMAIN', 'joyfulearth');
 
 function network_before_render() {

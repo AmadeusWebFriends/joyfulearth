@@ -15,3 +15,6 @@ The climate change crisis menacing our planet is a very real and critical one de
 
 The unscrupulous excessive burning of coal and other dangerous fossil fuels the past few decades has resulted in the release of greenhouse gases like carbon dioxide into the atmosphere, which has led to drastically altering our climate and causing widespread environmental and health issues. The continued reliance on these fuels is accelerating global warming and its destructive effects.
 
+---
+
+%media-corecodesnippet%
